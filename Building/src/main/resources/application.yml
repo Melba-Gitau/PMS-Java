@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: BUILDING-SERVICE
+server:
+  port: 8084

@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: TENANT-SERVICE
+server:
+  port: 8091
